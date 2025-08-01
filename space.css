@@ -26,3 +26,14 @@ a{ color:yellow
 	margin: 10px;
 	box-sizing: border-box;
 }
+
+
+/* FlexBox */
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
