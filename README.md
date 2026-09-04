@@ -12,3 +12,7 @@ The Java one is made after I went to school, that maybe in the java-autoclicker 
 but my first GUI experience was java FX. Which I did not want to use for this particular project because I wanted it working on old computers too. JavaFX is more modern and is a good choice too.
 
 This is an HTML page displaying the 2 projects.
+
+Report the .exe to MS as "SAFE" because they add hoops they are making people jump through to download an executable that has no remote calls and doesn't use networking. It looks for 1 keystroke, VIRUS. 
+Yet my program injecting ____ commands across my old network (REMOTE CONTROLL ACCCESS OF THE "VICTIM" COMPUTER) windows defender did not see at all. 
+
